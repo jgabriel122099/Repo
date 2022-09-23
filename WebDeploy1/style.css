@@ -1,0 +1,49 @@
+body{
+    background-color: #ffffff;
+}
+
+header{
+    background-image: url(./Images/ProjectImage1.jpeg);
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 30px 5px;
+}
+
+
+h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h2{
+    display: block;
+    width: 100%;
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 2px;
+}
+
+span{
+    font-weight: bold;
+    color: blue;
+}
+
+#Brushes, #Frames, #Paint{
+    margin: 10px 10px 30px;
+}
+
+#Brushes h2{
+    background-color: mediumspringgreen;
+}
+
+#Frames h2{
+    background-color: lightcoral;
+}
+
+#Paint h2{
+    background-color: skyblue;
+}
